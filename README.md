@@ -11,5 +11,18 @@
 - Experimental protocol involves exciting resonance (ultrasound), monitoring photon creation, and analyzing if photon yield increases as predicted—mirroring ideas in nonlinear quantum optics and sound-induced emission.
 - This theory is an alternative to space/time or vacuum-based quantum models, proposing that reality emerges from recursive wave patterns and attractor states rather than a pre-existing spacetime background.
 - The LZ constant is hypothesized as a cross-domain bridge, with applications from atomic to cosmic scales—a universal stabilization point that can be tested against real physical systems.
+- 
+**We detail a precision experiment using a high-Q piezoelectric transducer, direct digital
+synthesis (DDS) generator, and single-photon avalanche diode (SPAD) detector to stimulate and
+measure the sound-to-photon transition.**
+
+DOI Badge
+DOI
+
+10.5281/zenodo.17050672
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17050672.svg)](https://doi.org/10.5281/zenodo.17050672)
+
 
 ***
